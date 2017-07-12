@@ -1,4 +1,4 @@
-# gremlins.js
+﻿# gremlins.js
 
 gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
 
@@ -274,3 +274,4 @@ To build library, use `make build`.
 ## License
 
 gremlins.js is licensed under the [MIT Licence](LICENSE), courtesy of [marmelab](http://marmelab.com).
+hjkgjhgjhgj
